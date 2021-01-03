@@ -1,4 +1,4 @@
-#Pokémon GO Stevenage
+# Pokémon GO Stevenage
 
 Welcome to Pokémon GO Stevenage, please see below for a list of helpful links to raiding with the official Pokémon GO Stevenage group (based on Telegram messenger).
 
@@ -8,3 +8,11 @@ If you're not already a member, [click here to join the PokéLounge](https://t.m
 Once you've joined, [register with the DetectivePikachu raid bot](http://htmlpreview.github.io/?https://github.com/DanAngelus/pogo_stevenage/blob/master/Raid_Bot_Guide.html) to get started.   
 
 Not sure how to create raids? [See this guide](http://htmlpreview.github.io/?https://github.com/DanAngelus/pogo_stevenage/blob/master/Creating_Raids_Guide.html) for more information.
+
+## Useful Links
+- [Stevenage PokéLounge Telegram group](https://t.me/joinchat/S5rmF_ToRrOHd20j)
+- [Group rules and guidelines](http://htmlpreview.github.io/?https://github.com/DanAngelus/pogo_stevenage/blob/master/Group_Rules.html)
+- [Raid bot registration guide](http://htmlpreview.github.io/?https://github.com/DanAngelus/pogo_stevenage/blob/master/Raid_Bot_Guide.html)
+- [Creating raids guide](http://htmlpreview.github.io/?https://github.com/DanAngelus/pogo_stevenage/blob/master/Creating_Raids_Guide.html)
+- [Silph Road](https://thesilphroad.com/)
+- [Pokémon GO Hub](https://pokemongohub.net/)
